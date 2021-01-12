@@ -20,7 +20,7 @@ Optional approach might be added for backup the log data from elasticsearch, so 
 
 * Static Web : http://localhost:80
 * Elasticsearch : http://localhost:9200
-* http://localhost:5601
+* Kibana : http://localhost:5601
 
 4. Open the static website numerous time or using curl command, so it will produce log and fluentd will stream the logs to elasticsearch
 
